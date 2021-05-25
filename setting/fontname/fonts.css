@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'fontname';
+    font-style: normal;
+    font-weight: normal;
+    src: local('※');
+        src: url('fontname.eot');
+        /* IE9 Compat Modes */
+        src: url('fontname.eot?#iefix') format('embedded-opentype'),
+            /* IE6-IE8 */
+            url('fontname.otf') format('opentype'),
+            /* Open Type Font */
+            url('fontname.svg') format('svg'),
+            /* Legacy iOS */
+            url('fontname.ttf') format('truetype'),
+            /* Safari, Android, iOS */
+            url('fontname.woff') format('woff'),
+            /* Modern Browsers */
+            url('fontname.woff2') format('woff2');
+        /* Modern Browsers */
+}
+
